@@ -1,4 +1,3 @@
-# si-chs-builds
 System Informer 简体中文版本发行版构建仓库
 
 请跳转至 https://github.com/org-220623/si-chs-builds/releases 查看和下载最新版本。
